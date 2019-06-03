@@ -1,0 +1,3 @@
+zabbix-db-data/*
+zabbix-server/alertscripts/*
+!.gitignore
